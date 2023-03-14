@@ -14,4 +14,4 @@ Data comes from the archives of UCI website.  The comments were collected via th
 
 The goal of this project to train a machine learning model that can predict whether a comment is a spam or not.
 
-For this purpose, machine learning models were trained with Naive Bayes algorithms (Multinomial and Complement approaches). Both were sucessful at predicint whether a comment is spam or not. 
+For this purpose, machine learning models were trained with Naive Bayes algorithms (Multinomial and Complement approaches). Both were sucessful at predicting whether a YouTube video comment is spam or not. 
